@@ -1,7 +1,5 @@
 Game: XLander
 
-Name: Haochen Ding ID: 20329251
-
 Setup:
 
 1. Install the Xlib if you don't have.
